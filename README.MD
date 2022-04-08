@@ -1,6 +1,8 @@
 **Description;**
 Hello everyone! In this article, we will talk about the aluminum Voltage Indicator PCB we designed for our electric vehicle YTR08E by YTU Racing in the Formula Student competition, the world's most prestigious undergraduate engineering competition, attended by university students from all over the world who are interested in motor racing  
 ![enter image description here](https://raw.githubusercontent.com/aysenurkarga/YTU-Racing-Voltage-Indicator/main/20220408_134659.jpg) 
+
+![enter image description here](https://raw.githubusercontent.com/aysenurkarga/YTU-Racing-Voltage-Indicator/main/jlc%20logo.jpg)
 **Details;**  
 This article was brought to you by JLCPCBAs a fast electronic manufacturer, JLCPCB SMT service fulfills customers' money and time-saving needs.
 
@@ -23,4 +25,3 @@ You can build your library Inventory, save parts for now or in the future Assemb
 
   
 Thank you, JLCPCB !
-
